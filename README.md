@@ -45,6 +45,8 @@ $ npm run watch
 
 You can see the example by opening "src/html/index.html" in your browser. **You need to build your project first!**
 
+You can check other example in : https://github.com/gugamm/FluxBasic and https://facebook.github.io/flux/docs/todo-list.html#content
+
 ### Using FluxKit
 
 FluxKit comes with some pre-built files like:
