@@ -41,6 +41,10 @@ If you want to use watchify for watch your files for change and automatically up
 $ npm run watch
 ```
 
+### Example
+
+You can see the example by opening "src/html/index.html" in your browser. **You need to build your project first!**
+
 ### Using FluxKit
 
 FluxKit comes with some pre-built files like:
