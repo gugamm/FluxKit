@@ -1,6 +1,6 @@
 # FluxKit
 
-**FluxKit is a boilerplate project for develop applications with React.JS and Flux.**
+FluxKit is a boilerplate project for develop applications with React.JS and Flux.
 
 ### Version
 0.0.1
