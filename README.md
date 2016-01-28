@@ -10,14 +10,14 @@ FluxKit is a boilerplate project for develop applications with React.JS and Flux
 FluxKit has some dependencies to work properly:
 
 * [ReactJS] - A library for building user interfaces.
-* [FLUX] - A design pattern developed by Facebook.
+* [Flux] - A design pattern developed by Facebook.
 * [Events] - The EventEmitter library from node.js
 
 ### Installation
 
 You need NPM installed
 
-> Install [NODE.JS]. It will automatically install NPM for you.
+> Install [node.js]. It will automatically install NPM for you.
 
 Use these commands to get started with this project (IF YOU ALREADY HAVE NPM)
 ```sh
@@ -65,7 +65,7 @@ License
 
 MIT
 
-   [NODE.JS]: <http://nodejs.org>
+   [node.js]: <http://nodejs.org>
    [ReactJS]: <https://facebook.github.io/react/>
    [Flux]: <https://facebook.github.io/flux/>
    [Events]: <https://nodejs.org/api/events.html>
