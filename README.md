@@ -64,7 +64,7 @@ Tips :
 >> You can modify the Basic Dispatcher for custom needs
 
 **Using Store**
->>You can extend Store for creating a store. I will comes with important methods like : addActionListener, removeActionListener and emitChange
+>>You can extend Store for creating a store. It will come with important methods like : addChangeListener, removeChangeListener and emitChange
 
 License
 ----
